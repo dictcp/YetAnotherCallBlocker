@@ -1,2 +1,2 @@
-* Adicionado tradução parcial para chinês (Simplificado), obrigado a Jane Kong (@Myon).
+* Adicionada tradução parcial em chinês (Simplificado), graças a Jane Kong (@Myon).
 * Dependências atualizadas.
