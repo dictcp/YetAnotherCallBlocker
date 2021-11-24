@@ -44,4 +44,24 @@
     <string name="notification_channel_group_name_blocked_calls">拦截的电话</string>
     <string name="notification_channel_group_name_incoming_calls">来电</string>
     <string name="app_name">又一个电话拦截器</string>
+    <string name="denied_call_screening_role_message">高级电话屏蔽功能没生效，因为没有将app 设置为Caller ID默认应用</string>
+    <string name="sia_category_safe_personal">安全，个人</string>
+    <string name="notification_incoming_call_positive">积极来电</string>
+    <string name="notification_channel_name_monitoring_service">监控服务</string>
+    <string name="sia_category_unsolicited">未经请求的</string>
+    <string name="notification_channel_name_blocked_info">屏蔽的信息</string>
+    <string name="notification_blocked_call">屏蔽电话</string>
+    <string name="notification_incoming_call_unknown">未知来电</string>
+    <string name="notification_incoming_call_neutral">中立电话</string>
+    <string name="notification_incoming_call_contact">联系人</string>
+    <string name="sia_category_silent">静音</string>
+    <string name="sia_category_call_center">呼叫中心</string>
+    <string name="sia_category_robocall">机器人电话</string>
+    <string name="feature_call_blocking">阻断通话</string>
+    <string name="default_phone_app">默认电话应用</string>
+    <string name="default_caller_id_app">默认来电显示应用</string>
+    <string name="sia_category_safe_nonprofit">安全，非盈利</string>
+    <string name="default_phone_app_unset">在默认电话设置中，选择另一个电话应用</string>
+    <string name="number_pattern_incorrect">错误模式</string>
+    <string name="monitoring_service_description">监控手机后台状态</string>
 </resources>
