@@ -64,4 +64,16 @@
     <string name="default_phone_app_unset">在默认电话设置中，选择另一个电话应用</string>
     <string name="number_pattern_incorrect">错误模式</string>
     <string name="monitoring_service_description">监控手机后台状态</string>
+    <string name="filtering_db">数据过滤</string>
+    <string name="info_in_blacklist">在黑名单上</string>
+    <string name="lookup_hint_input_number">手机号码</string>
+    <string name="db_management_update_db">升级数据库</string>
+    <string name="open_db_management_activity">管理数据库</string>
+    <string name="db_management_reset_base">重设数据库</string>
+    <string name="lookup_paste_number">黏贴号码</string>
+    <string name="issues">获得帮助/反馈问题</string>
+    <string name="lookup_number_not_found">没有发现</string>
+    <string name="edit_blacklist_item_name">姓名</string>
+    <string name="lookup_query_db">离线搜索</string>
+    <string name="export_logcat">导出日志</string>
 </resources>
