@@ -76,4 +76,8 @@
     <string name="edit_blacklist_item_name">姓名</string>
     <string name="lookup_query_db">离线搜索</string>
     <string name="export_logcat">导出日志</string>
+    <string name="notification_incoming_call_negative">不好的来电</string>
+    <string name="add_to_blacklist">添加到黑名单</string>
+    <string name="about_activity">关于</string>
+    <string name="monitoring_service_label">电话监控服务</string>
 </resources>
