@@ -211,4 +211,5 @@
     <string name="notification_channel_group_name_blocked_calls">Trucades blocades</string>
     <string name="notification_channel_group_name_incoming_calls">Trucades entrants</string>
     <string name="settings_category_database">Base de dades</string>
+    <string name="db_filtering_info">Explicació</string>
 </resources>
