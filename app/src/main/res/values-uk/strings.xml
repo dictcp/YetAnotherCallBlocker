@@ -104,7 +104,7 @@
     <string name="country_code_incorrect_format">Некоректний формат коду країни. Значення не оновлено</string>
     <string name="settings_category_debugging">Налагодження</string>
     <string name="save_crashes_to_external_storage">Зберігати звіти в загальне сховище</string>
-    <string name="save_crashes_to_external_storage_summary">Зберігати звіти про помилки та логи в загальне сховище. В іншому випадку звіти зберігаються в особисту папку програми. Звіти можуть містити конфіденційні дані (номери телефонів, імена контактів). Інші додатки з дозволом на доступ до сховища можуть мати доступ до цих даних в загальному сховищі</string>
+    <string name="save_crashes_to_external_storage_summary">Зберігати звіти про помилки та журнали в загальне сховище. В іншому випадку звіти зберігаються в особисту теку програми. Звіти можуть містити конфіденційні дані (номери телефонів, імена контактів). Інші додатки з дозволом на доступ до сховища можуть мати доступ до цих даних в загальному сховищі</string>
     <string name="save_logcat_on_crash">Зберігати logcat при помилках</string>
     <string name="save_logcat_on_crash_summary">Зберігати вміст logcat при помилках (на додаток до звичайного stacktrace)</string>
     <string name="export_logcat">Експортувати logcat</string>
