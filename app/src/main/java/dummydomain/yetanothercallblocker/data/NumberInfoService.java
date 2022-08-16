@@ -1,5 +1,6 @@
 package dummydomain.yetanothercallblocker.data;
 
+import android.telephony.PhoneNumberUtils;
 import android.text.TextUtils;
 
 import org.slf4j.Logger;
@@ -8,6 +9,7 @@ import org.slf4j.LoggerFactory;
 import java.util.Date;
 
 import dummydomain.yetanothercallblocker.Settings;
+import dummydomain.yetanothercallblocker.data.db.BlacklistItem;
 import dummydomain.yetanothercallblocker.sia.model.database.CommunityDatabase;
 import dummydomain.yetanothercallblocker.sia.model.database.CommunityDatabaseItem;
 import dummydomain.yetanothercallblocker.sia.model.database.FeaturedDatabase;
@@ -116,7 +118,12 @@ public class NumberInfoService {
         if (blacklistService != null && settings.getBlacklistIsNotEmpty()) {
             // avoid loading blacklist if blocking for other reason
             if (full || getBlockingReason(numberInfo) == null) {
-                numberInfo.blacklistItem = blacklistService.getBlacklistItemForNumber(number);
+                BlacklistItem item = blacklistService.getBlacklistItemForNumber(number);
+                // try normalized number as well:
+                if(item == null) {
+                    item = blacklistService.getBlacklistItemForNumber(normalizedNumber);
+                }
+                numberInfo.blacklistItem = item;
             }
         }
         LOG.trace("getNumberInfo() blacklistItem={}", numberInfo.blacklistItem);
