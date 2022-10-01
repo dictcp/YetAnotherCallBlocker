@@ -1,7 +1,7 @@
-* Added options for database filtering to save storage space (advanced feature).
-* The database update procedure is optimized to require less RAM.
-* The Lookup screen number field is prefilled from clipboard.
-* Fixed a rare bug where the app could stuck in an update loop.
-* Added Vietnamese translation thanks to bruh (@quangtrung02hn16).
-* Updated translations thanks to J. Lavoie (@Edanas), ssantos, Heimen Stoffels (@Vistaus), Oğuz Ersen (@ersen), phlostically.
-* Fixed Hebrew translation.
+* Se han añadido opciones de filtrado de la base de datos para ahorrar espacio de almacenamiento (función avanzada).
+* El procedimiento de actualización de la base de datos se ha optimizado para requerir menos RAM.
+* El campo del número de la pantalla de búsqueda se rellena previamente desde el portapapeles.
+* Se ha corregido un error poco frecuente por el que la aplicación podía quedarse atascada en un bucle de actualización.
+* Añadida la traducción al vietnamita gracias a bruh (@quangtrung02hn16).
+* Traducciones actualizadas gracias a J. Lavoie (@Edanas), ssantos, Heimen Stoffels (@Vistaus), Oğuz Ersen (@ersen), phlostically.
+* Traducción hebrea corregida.

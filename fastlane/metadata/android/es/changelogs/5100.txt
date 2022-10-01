@@ -1,4 +1,4 @@
-* Fixed importing blacklist files larger than 4000 bytes.
-* Fixed occasional crash after deleting blacklist items.
-* Simplified blacklist import format (see changelog for details).
-* Updated translations thanks to J. Lavoie, Milo Ivir (@milotype), Yannis T. (@azakosath), Evo (@verahawk), Oğuz Ersen (@ersen).
+* Corregida la importación de archivos de listas negras de más de 4000 bytes.
+* Corregido el fallo ocasional después de borrar elementos de la lista negra.
+* Simplificación del formato de importación de la lista negra (véase el registro de cambios para más detalles).
+* Traducciones actualizadas gracias a J. Lavoie, Milo Ivir (@milotype), Yannis T. (@azakosath), Evo (@verahawk), Oğuz Ersen (@ersen).
