@@ -1,4 +1,4 @@
-* Se agregaron opciones para el filtrado de bases de datos para ahorrar espacio de almacenamiento (característica avanzada). 
+* Se agregaron opciones para el filtrado de bases de datos para ahorrar espacio de almacenamiento (característica avanzada).  
 * El proceso de actualización de la base de datos está optimizado para requerir menos RAM. 
 * El campo de número de la pantalla de búsqueda se rellena automáticamente desde el portapapeles. 
 * Se corrigió un error raro en el que la aplicación podía atascarse en un bucle al actualizar. 
