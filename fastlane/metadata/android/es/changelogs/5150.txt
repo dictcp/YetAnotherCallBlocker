@@ -1,7 +1,7 @@
-* Se han añadido opciones de filtrado de la base de datos para ahorrar espacio de almacenamiento (función avanzada).
-* El procedimiento de actualización de la base de datos se ha optimizado para requerir menos RAM.
-* El campo del número de la pantalla de búsqueda se rellena previamente desde el portapapeles.
-* Se ha corregido un error poco frecuente por el que la aplicación podía quedarse atascada en un bucle de actualización.
-* Añadida la traducción al vietnamita gracias a bruh (@quangtrung02hn16).
+* Opciones agregadas para filtrar bases de datos para ahorrar espacio de almacenamiento (función avanzada).
+* El procedimiento de actualización de la base de datos está optimizado para requerir menos RAM.
+* El campo de número de pantalla de búsqueda se rellena desde el portapapeles.
+* Corregido un raro error en el que la aplicación podría quedar atrapada en un bucle de actualización.
+* Añadida la traducción vietnamita gracias a bruh (@quangtrung02hn16).
 * Traducciones actualizadas gracias a J. Lavoie (@Edanas), ssantos, Heimen Stoffels (@Vistaus), Oğuz Ersen (@ersen), phlostically.
-* Traducción hebrea corregida.
+* Corregida traducción al hebreo.
