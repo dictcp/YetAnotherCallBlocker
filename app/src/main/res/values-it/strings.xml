@@ -11,8 +11,8 @@
     <string name="notification_channel_name_blocked_info">Info blocco</string>
     <string name="notification_channel_name_negative">Numeri spam</string>
     <string name="notification_channel_name_unknown">Numeri sconosciuti</string>
-    <string name="notification_channel_name_neutral">Numeri neutri</string>
-    <string name="notification_channel_name_positive">Numeri buoni</string>
+    <string name="notification_channel_name_neutral">Chiamate neutre</string>
+    <string name="notification_channel_name_positive">Chiamate positive</string>
     <string name="notification_channel_name_known">Chiamate conosciute</string>
     <string name="notification_channel_group_name_blocked_calls">Chiamate bloccate</string>
     <string name="notification_channel_group_name_incoming_calls">Chiamate in entrata</string>
@@ -25,7 +25,7 @@
     <string name="no">No</string>
     <string name="yes">Sì</string>
     <string name="back">Indietro</string>
-    <string name="online_reviews">Recensioni in linea</string>
+    <string name="online_reviews">Recensioni online</string>
     <string name="secondary_db_updating">Aggiornamento della base di dati in corso…</string>
     <string name="main_db_downloading">Scaricamento della base di dati…</string>
     <string name="download_main_db">Scarica la base di dati</string>
