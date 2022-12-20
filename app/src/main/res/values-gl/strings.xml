@@ -226,5 +226,5 @@
     <string name="db_last_update_check_checking">comprobando…</string>
     <string name="db_filtering_info_summary">Esta característica permite aforrar espazo de almacenaxe eliminando algúns datos que non se aplican ao teu caso (como número que pertencen a outros países). Non afecta ao rendemento xeral da app (ao bloqueo). O filtrado acontece durante a descarga inicial da base de datos e durante a actualización da base de datos. Os datos existentes (descargados anteriormente a activar o filtro) poden ser filtrados usando a opción \"Filtrar a base de datos\". Desactivando esta ferramenta ou cambiando os seus parámetros non restableces os datos eliminados - terías que volver a descargar a base de datos</string>
     <string name="db_filtering_thorough_summary">Se o activas, comprobará cada bloque de datos e eliminará os números que non concorden cos prefixos. Se non, só elimina os bloques non desexados ao completo (deixando algúns números non desexados nos bloques admitidos). É recomendable activar isto. Requerido para manter números curtos</string>
-    <string name="db_filtering_thorough">Filtrado exhaustivo</string>
+    <string name="db_filtering_thorough">Filtrado completo</string>
 </resources>
