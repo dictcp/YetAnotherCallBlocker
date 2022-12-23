@@ -172,4 +172,23 @@
     <string name="contacts_are_not_blocked_no_permission">Anrufe von Kontakten können blockiert werden, weil die Berechtigung „Kontakte“ nicht erteilt ist!</string>
     <string name="block_hidden_number_summary">Anrufe von versteckten Nummern blockieren. Kann im „Erweiterten Anrufblockierungsmodus“ anders (besser oder schlechter) funktionieren</string>
     <string name="license">Diese Anwendung ist unter AGPL-3.0 lizenziert.</string>
+    <string name="number_pattern_incorrect">Falsches Muster</string>
+    <string name="db_filtering_info">Erklärung</string>
+    <string name="filtering_db">DB wird gefiltert…</string>
+    <string name="info_in_blacklist_contact">In der schwarzen Liste (Kontakte werden nicht blockiert)</string>
+    <string name="open_db_management_activity">Datenbank verwalten</string>
+    <string name="db_management_reset_base">DB zurücksetzen</string>
+    <string name="lookup_number_not_found">Nicht gefunden</string>
+    <string name="lookup_res_category">Kategorie: %d</string>
+    <string name="monitoring_service_label">Anrufüberwachungsdienst</string>
+    <string name="monitoring_service_notification_title">Anrufe überwachen</string>
+    <string name="lookup_hint_input_number">Telefonnummer</string>
+    <string name="settings_screen_db_filtering">Datenbank-Filterung</string>
+    <string name="db_filtering_enabled">Filterung aktiviert</string>
+    <string name="edit_blacklist_item_number_pattern">Nummernmuster</string>
+    <string name="lookup_error_not_a_number">Telefonnummer wird erwartet</string>
+    <string name="lookup_paste_number">Nummer einfügen</string>
+    <string name="number_pattern_empty">Leeres Muster</string>
+    <string name="add_to_blacklist">Zur schwarzen Liste hinzufügen</string>
+    <string name="lookup_query_db">Suche (offline)</string>
 </resources>
