@@ -191,4 +191,5 @@
     <string name="number_pattern_empty">Leeres Muster</string>
     <string name="add_to_blacklist">Zur schwarzen Liste hinzufügen</string>
     <string name="lookup_query_db">Suche (offline)</string>
+    <string name="country_codes_info_summary_addition">Automatisch erkannt: %s</string>
 </resources>
