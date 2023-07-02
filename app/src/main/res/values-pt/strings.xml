@@ -94,7 +94,7 @@
     <string name="country_codes_info_summary">Os códigos dos países são utilizados em pedidos a servidores de terceiros. Estes códigos são definidos para imitar o comportamento da aplicação oficial de terceiros. Se os códigos corresponderem ao seu país real (podem ser detetados pelo seu endereço IP), então os seus pedidos terão o aspeto mais discreto. É utilizada por defeito a deteção automática é utilizada (baseada na informação da rede móvel ou local do sistema), o que deve ser suficiente para a maioria dos utilizadores, mas pode definir os códigos manualmente. São esperados códigos ISO 3166 de 2 letras (como em US)</string>
     <string name="country_codes_info">Esclarecimento</string>
     <string name="settings_category_country_codes">Códigos de países</string>
-    <string name="block_in_limited_mode_blacklist">Na lista negra</string>
+    <string name="block_in_limited_mode_blacklist">Bloqueados</string>
     <string name="block_in_limited_mode_rating">Por avaliação</string>
     <string name="block_in_limited_mode_summary">Tipos de bloqueio permitidos no modo Direct Boot (os Contactos não podem ser usados de forma fiável como uma lista branca neste modo)</string>
     <string name="block_in_limited_mode">Bloquear no modo Direct Boot</string>
@@ -172,7 +172,7 @@
     <string name="sia_category_safe_company">Empresa de confiança</string>
     <string name="sia_category_safe_personal">Pessoal (segura)</string>
     <string name="sia_category_robocall">Automática (gravação)</string>
-    <string name="sia_category_service">Serviços</string>
+    <string name="sia_category_service">Serviço</string>
     <string name="sia_category_company">Empresa</string>
     <string name="sia_category_financial_service">Serviços financeiros</string>
     <string name="sia_category_other">Outras</string>
@@ -185,7 +185,7 @@
     <string name="sia_category_fax">FAX</string>
     <string name="sia_category_call_center">Centro de chamadas</string>
     <string name="sia_category_unsolicited">Não solicitada</string>
-    <string name="sia_category_nuisance">Incómodo</string>
+    <string name="sia_category_nuisance">Incômodo</string>
     <string name="sia_category_silent">Silenciosa</string>
     <string name="sia_category_dept_collector">Cobrador de dívidas</string>
     <string name="sia_category_telemarketer">Telemarketing</string>
