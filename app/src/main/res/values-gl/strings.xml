@@ -96,7 +96,7 @@
     <string name="block_in_limited_mode">Bloqueo en modo de Inicio Directo</string>
     <string name="block_in_limited_mode_summary">Tipos de bloqueo permitidos no modo de Inicio Directo (Os contactos non se poden usar de xeito fiable neste modo)</string>
     <string name="block_in_limited_mode_rating">Por valoración</string>
-    <string name="block_in_limited_mode_blacklist">Lista negra</string>
+    <string name="block_in_limited_mode_blacklist">Na lista negra</string>
     <string name="settings_category_country_codes">Códigos de país</string>
     <string name="country_codes_info">Explicación</string>
     <string name="notification_channel_group_name_services">Servizos</string>
