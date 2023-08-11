@@ -1,0 +1,3 @@
+* Visa senaste samtal på huvudskärmen.
+* Lade till ett alternativ för särbehandling av kontakter (aldrig blockerad, namn visas).
+* En massa andra mindre förbättringar.
