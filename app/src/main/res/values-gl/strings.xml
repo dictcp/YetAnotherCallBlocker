@@ -96,7 +96,7 @@
     <string name="block_in_limited_mode">Bloqueo en modo de Inicio Directo</string>
     <string name="block_in_limited_mode_summary">Tipos de bloqueo permitidos no modo de Inicio Directo (Os contactos non se poden usar de xeito fiable neste modo)</string>
     <string name="block_in_limited_mode_rating">Por valoración</string>
-    <string name="block_in_limited_mode_blacklist">Na lista negra</string>
+    <string name="block_in_limited_mode_blacklist">Na lista de bloqueo</string>
     <string name="settings_category_country_codes">Códigos de país</string>
     <string name="country_codes_info">Explicación</string>
     <string name="notification_channel_group_name_services">Servizos</string>
@@ -172,7 +172,7 @@
     <string name="contacts_are_not_blocked_blacklist_notice">Nunca se bloquean as chamadas dos contactos (incluso se aplica un filtro)</string>
     <string name="contacts_are_not_blocked_not_enabled">As chamadas dos contactos poderían ser bloquedas por que non está activada a opción \"Usar contactos\"!</string>
     <string name="contacts_are_not_blocked_no_permission">As chamadas dos contactos poderían ser bloqueadas porque non se concedeu o permiso \"Contactos\"!</string>
-    <string name="info_in_blacklist">Na lista negra</string>
+    <string name="info_in_blacklist">Bloqueado</string>
     <string name="info_in_blacklist_contact">Na lista negra (os contactos non se bloquean)</string>
     <string name="add_to_blacklist">Engadir á lista negra</string>
     <string name="open_db_management_activity">Xestionar base de datos</string>
