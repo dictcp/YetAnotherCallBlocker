@@ -1,3 +1,3 @@
-* Added Catalan translation thanks to Raul (@raulvo).
-* Updated translations thanks to Lucio Marinelli (@luciomarinelli), Raul (@raulvo), Heimen Stoffels (@Vistaus), Evo (@verahawk), Allan Nordhøy (@kingu), z Z z (@ruslan.zeezu).
-* Other minor changes.
+* S'ha afegit la traducció catalana gràcies a Raúl (@raulvo).
+* Traduccions actualitzades gràcies a Lucio Marinelli (@luciomarinelli), Raul (@raulvo), Heimen Stoffels (@Vistaus), Evo (@verahawk), Allan Nordhøy (@kingu), z Z z (@ruslan.zeezu).
+* Altres canvis menors.

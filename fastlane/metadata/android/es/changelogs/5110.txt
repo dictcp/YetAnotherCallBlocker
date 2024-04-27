@@ -1,4 +1,4 @@
-* Added an option to disable notifications for blocked calls on old Android versions.
-* Changed blocking behavior in Direct Boot mode: blacklisted numbers are not blocked by default (see issue #22 for details).
-* Added Portuguese (Brazil) translation thanks to APL.
-* Updated translations thanks to Milo Ivir (@milotype), J. Lavoie, Oğuz Ersen (@ersen).
+* Se ha añadido una opción para desactivar las notificaciones de las llamadas bloqueadas en las versiones antiguas de Android.
+* Cambiado el comportamiento de bloqueo en el modo de Arranque Directo: los números de la lista negra no se bloquean por defecto (ver problema #22 para más detalles).
+* Añadida la traducción al portugués (Brasil) gracias a APL.
+* Traducciones actualizadas gracias a Milo Ivir (@milotype), J. Lavoie, Oğuz Ersen (@ersen).
