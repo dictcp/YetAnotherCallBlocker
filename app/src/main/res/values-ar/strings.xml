@@ -116,7 +116,7 @@
     <string name="block_hidden_number_summary">حظر المكالمات من الأرقام المخفية. قد يعمل بشكل مختلف (أفضل أو أسوأ) في \"الوضع المتقدم لحظر المكالمات\"</string>
     <string name="block_blacklisted_short">حظر القائمة السوداء</string>
     <string name="use_call_screening_service">الوضع المتقدم لحظر المكالمات</string>
-    <string name="use_call_screening_service_summary">يسمح بحظر المكالمات قبل أن يبدأ الهاتف في الرنين. يتطلب تعيين التطبيق ك \"تطبيق الهاتف\" (Android 7-9) أو \"تطبيق معرف المتصل\" (Android 10+)</string>
+    <string name="use_call_screening_service_summary">يسمح بحظر المكالمات قبل أن يبدأ الهاتف في الرنين. يتطلب تعيين التطبيق ك \"تطبيق الهاتف\" (Android 7–9) أو \"تطبيق معرف المتصل\" (Android 10+)</string>
     <string name="use_monitoring_service">استخدم خدمة المراقبة</string>
     <string name="use_monitoring_service_summary">تمكين خدمة مراقبة تعمل دائما تساعد في تلقي الأحداث الهاتفية على بعض الهواتف. قم بتمكين هذه الميزة فقط إذا لم يعمل حظر المكالمات والإشعارات الإعلامية. هذه الميزة ليس لها أي تأثير على عمر البطارية</string>
     <string name="auto_updates_summary">تلقي التحديثات اليومية لقاعدة بيانات الأرقام تلقائيا</string>

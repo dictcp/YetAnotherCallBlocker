@@ -152,6 +152,7 @@
     <plurals name="blacklist_item_stats">
         <item quantity="one">שיחה ב־%2$s</item>
         <item quantity="two">שתי שיחות, אחרונה: %2$s</item>
+        <item quantity="many">%1$d שיחות, אחרונה: %2$s</item>
         <item quantity="other">%1$d שיחות, אחרונה: %2$s</item>
     </plurals>
     <string name="title_blacklist_activity">רשימה שחורה</string>

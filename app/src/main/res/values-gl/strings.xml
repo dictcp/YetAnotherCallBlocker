@@ -116,7 +116,7 @@
     <string name="use_monitoring_service_summary">Permite un servizo de monitorización sempre activo que axuda a recibir eventos de telefonía nalgúns teléfonos. Activa esta característica se o bloqueo e a notificación non funcionan. Esta función non afecta á duración da batería</string>
     <string name="show_notifications_for_blocked_calls_summary">Mostrar unha notificación das chamadas que foron bloqueadas</string>
     <string name="blocked_call_notifications_disable_confirmation">Desactivar igualmente</string>
-    <string name="use_call_screening_service_summary">Permite bloquear chamadas antes de comezar a sonar. Require establecer a app como \"App de Teléfono\" (Android 7-9) ou como \"App identificadora de chamas\" (Android 10+)</string>
+    <string name="use_call_screening_service_summary">Permite bloquear chamadas antes de comezar a sonar. Require establecer a app como \"App de Teléfono\" (Android 7–9) ou como \"App identificadora de chamas\" (Android 10+)</string>
     <string name="block_negative_sia_numbers_summary">Bloquear chamadas de número cunha valoración negativa (baseado na base de datos da comunidade)</string>
     <string name="settings_screen_advanced">Axustes avanzados</string>
     <string name="country_codes_info_summary_addition">Detectado autom.: %s</string>
