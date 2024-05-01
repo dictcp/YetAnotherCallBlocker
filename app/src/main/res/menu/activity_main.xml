@@ -13,36 +13,43 @@
         android:id="@+id/menu_show_notifications"
         android:checkable="true"
         android:onClick="onShowNotificationsChanged"
-        android:title="@string/incoming_call_notifications" />
+        android:title="@string/incoming_call_notifications"
+        android:singleLineTitle="false" />
 
     <item
         android:id="@+id/menu_block_calls"
         android:checkable="true"
         android:onClick="onBlockCallsChanged"
-        android:title="@string/block_negative_sia_short" />
+        android:title="@string/block_negative_sia_short"
+        android:singleLineTitle="false" />
 
     <item
         android:id="@+id/menu_auto_updates"
         android:checkable="true"
         android:onClick="onAutoUpdatesChanged"
-        android:title="@string/auto_updates" />
+        android:title="@string/auto_updates"
+        android:singleLineTitle="false" />
 
     <item
         android:id="@+id/menu_use_contacts"
         android:checkable="true"
         android:onClick="onUseContactsChanged"
-        android:title="@string/use_contacts" />
+        android:title="@string/use_contacts"
+        android:singleLineTitle="false" />
 
     <item
         android:onClick="onOpenBlacklist"
-        android:title="@string/open_blacklist_activity" />
+        android:title="@string/open_blacklist_activity"
+        android:singleLineTitle="false" />
 
     <item
         android:onClick="onOpenSettings"
-        android:title="@string/open_settings_activity" />
+        android:title="@string/open_settings_activity"
+        android:singleLineTitle="false" />
 
     <item
         android:onClick="onOpenAbout"
-        android:title="@string/open_about_activity" />
+        android:title="@string/open_about_activity"
+        android:singleLineTitle="false" />
 
 </menu>

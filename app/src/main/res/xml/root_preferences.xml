@@ -6,22 +6,26 @@
             app:defaultValue="true"
             app:key="incomingCallNotifications"
             app:summary="@string/incoming_call_notifications_summary"
-            app:title="@string/incoming_call_notifications" />
+            app:title="@string/incoming_call_notifications"
+            app:singleLineTitle="false" />
         <SwitchPreferenceCompat
             app:key="autoUpdateEnabled"
             app:persistent="false"
             app:summary="@string/auto_updates_summary"
-            app:title="@string/auto_updates" />
+            app:title="@string/auto_updates"
+            app:singleLineTitle="false" />
         <SwitchPreferenceCompat
             app:key="useContacts"
             app:summary="@string/use_contacts_summary"
-            app:title="@string/use_contacts" />
+            app:title="@string/use_contacts"
+            app:singleLineTitle="false" />
         <dummydomain.yetanothercallblocker.preference.IntListPreference
             app:defaultValue="-1"
             app:entries="@array/ui_mode_entries"
             app:entryValues="@array/ui_mode_entry_values"
             app:key="uiMode"
             app:title="@string/ui_mode"
+            app:singleLineTitle="false"
             app:useSimpleSummaryProvider="true" />
         <ListPreference
             app:defaultValue="consecutive"
@@ -29,6 +33,7 @@
             app:entryValues="@array/call_log_grouping_values"
             app:key="callLogGrouping"
             app:title="@string/call_log_grouping"
+            app:singleLineTitle="false"
             app:useSimpleSummaryProvider="true" />
     </PreferenceCategory>
 
@@ -36,60 +41,72 @@
         <SwitchPreferenceCompat
             app:key="blockNegativeSiaNumbers"
             app:summary="@string/block_negative_sia_numbers_summary"
-            app:title="@string/block_negative_sia" />
+            app:title="@string/block_negative_sia"
+            app:singleLineTitle="false" />
         <SwitchPreferenceCompat
             app:key="blockHiddenNumbers"
             app:summary="@string/block_hidden_number_summary"
-            app:title="@string/block_hidden_number" />
+            app:title="@string/block_hidden_number"
+            app:singleLineTitle="false" />
         <SwitchPreferenceCompat
             app:defaultValue="true"
             app:key="blockBlacklisted"
             app:summary="@string/block_blacklisted_summary"
-            app:title="@string/block_blacklisted" />
+            app:title="@string/block_blacklisted"
+            app:singleLineTitle="false" />
         <SwitchPreferenceCompat
             app:key="useCallScreeningService"
             app:persistent="false"
             app:summary="@string/use_call_screening_service_summary"
-            app:title="@string/use_call_screening_service" />
+            app:title="@string/use_call_screening_service"
+            app:singleLineTitle="false" />
     </PreferenceCategory>
 
     <SwitchPreferenceCompat
         app:key="useMonitoringService"
         app:summary="@string/use_monitoring_service_summary"
-        app:title="@string/use_monitoring_service" />
+        app:title="@string/use_monitoring_service"
+		app:singleLineTitle="false" />
 
     <PreferenceCategory
         app:key="categoryNotifications"
-        app:title="@string/notification_settings">
+        app:title="@string/notification_settings"
+		app:singleLineTitle="false">
         <Preference
             app:key="notificationChannelSettings"
             app:persistent="false"
-            app:title="@string/notification_settings" />
+            app:title="@string/notification_settings"
+			app:singleLineTitle="false" />
     </PreferenceCategory>
 
     <PreferenceCategory
         app:key="categoryNotificationsLegacy"
-        app:title="@string/notification_settings">
+        app:title="@string/notification_settings"
+		app:singleLineTitle="false">
         <SwitchPreferenceCompat
             app:key="showNotificationsForKnownCallers"
             app:summary="@string/show_notifications_for_known_callers_summary"
-            app:title="@string/show_notifications_for_known_callers" />
+            app:title="@string/show_notifications_for_known_callers"
+			app:singleLineTitle="false" />
         <SwitchPreferenceCompat
             app:key="showNotificationsForUnknownCallers"
             app:summary="@string/show_notifications_for_unknown_callers_summary"
-            app:title="@string/show_notifications_for_unknown_callers" />
+            app:title="@string/show_notifications_for_unknown_callers"
+			app:singleLineTitle="false" />
         <SwitchPreferenceCompat
             app:key="showNotificationsForBlockedCallsNonPersistent"
             app:persistent="false"
             app:summary="@string/show_notifications_for_blocked_calls_summary"
-            app:title="@string/show_notifications_for_blocked_calls" />
+            app:title="@string/show_notifications_for_blocked_calls"
+			app:singleLineTitle="false" />
     </PreferenceCategory>
 
     <PreferenceCategory app:title="@string/settings_screen_advanced">
         <Preference
             app:fragment="dummydomain.yetanothercallblocker.AdvancedSettingsFragment"
             app:key="screenAdvanced"
-            app:title="@string/settings_screen_advanced" />
+            app:title="@string/settings_screen_advanced"
+			app:singleLineTitle="false" />
     </PreferenceCategory>
 
 </PreferenceScreen>
